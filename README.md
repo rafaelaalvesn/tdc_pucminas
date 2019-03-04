@@ -1,6 +1,6 @@
 # tdc_pucminas
 Algoritmos para auxiliar nos cálculos para disciplina de Tecnologias de Descoberta do Conhecimento
-#Cálculos:
+# Cálculos:
   - Entropia da Classe
   - Entropia dos Atributos
   - Melhor Atributo
