@@ -1,0 +1,7 @@
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\bin\Debug\TDC_PUCMINAS_2019.exe.config
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\bin\Debug\TDC_PUCMINAS_2019.exe
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\bin\Debug\TDC_PUCMINAS_2019.pdb
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\obj\Debug\TDC_PUCMINAS_2019.csprojAssemblyReference.cache
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\obj\Debug\TDC_PUCMINAS_2019.csproj.CoreCompileInputs.cache
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\obj\Debug\TDC_PUCMINAS_2019.exe
+E:\Google Drive\Documentos\PUC\6º Período\Tecnologias e Descobertas do Conhecimento\TDC_PUCMINAS_2019\obj\Debug\TDC_PUCMINAS_2019.pdb
